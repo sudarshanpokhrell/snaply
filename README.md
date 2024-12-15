@@ -14,9 +14,9 @@ The client is built using modern web technologies to ensure a responsive and use
 
 #### Technologies Used
 - React
-- Redux
 - Axios
-- Material-UI
+- React Router Dom
+- Chakra UI
 
 #### Setup Instructions
 
@@ -79,10 +79,3 @@ We welcome contributions! Please follow these steps to contribute:
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For any inquiries or feedback, please contact us at [support@snaply.com](mailto:support@snaply.com).
